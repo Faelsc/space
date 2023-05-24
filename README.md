@@ -83,11 +83,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
  <sub><b>Rafael Corrêa</b></sub></a> <a href="https://www.linkedin.com/in/correarafaelsantos/" title="Alura Space">🚀</a>
  <br />
-
----
-
-[Rafael Corrêa]
-
 👋🏽 [Entre em contato pelo Linkedin!](https://www.linkedin.com/in/correarafaelsantos/)
 
 ---
